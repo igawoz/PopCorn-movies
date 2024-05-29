@@ -1,1 +1,1 @@
-React App for searching and rating movies. It is still in progress and will be updated.
+Welcome to PopCorn, a web application where users can search through movie database to find their favourite movies and series, view IMDb rating, manage their watchlist, and rate them on their own and this data will be stored in their local storage. This project showcases the implemantation of React useState, useEffect and hooks.
