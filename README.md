@@ -1,1 +1,2 @@
-Welcome to PopCorn, a web application where users can search through movie database to find their favourite movies and series, view IMDb rating, manage their watchlist, and rate them on their own and this data will be stored in their local storage. This project showcases the implemantation of React useState, useEffect and hooks.
+PopCorn
+Welcome to UsePopcorn Movies, a movie database web application where users can search for movies, view IMDb ratings, manage their watchlist, and rate movies they've watched. This project showcases the implementation of React hooks, useState and useEffect, for managing state and handling side effects, and API fetching for retrieving movie data.
