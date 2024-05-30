@@ -1,5 +1,5 @@
 :root {
-  --color-primary: #c37e17;
+  --color-primary: #b97816;
   --color-primary-light: #dcad50;
   --color-text: #dee2e6;
   --color-text-dark: #2a2c2e;
@@ -44,7 +44,7 @@ body {
   height: 7.2rem;
   padding: 0 3.2rem;
   background-color: var(--color-primary);
-  border-radius: 0.9rem;
+  border-radius: 0.5rem;
 }
 
 .main {
@@ -59,7 +59,7 @@ body {
   width: 46rem;
   max-width: 46rem;
   background-color: var(--color-background-500);
-  border-radius: 0.9rem;
+  border-radius: 0.5rem;
   overflow: scroll;
   position: relative;
 }
@@ -101,7 +101,7 @@ body {
   border: none;
   padding: 1.1rem 1.6rem;
   font-size: 1.8rem;
-  border-radius: 0.7rem;
+  border-radius: 0.5rem;
   width: 50rem;
   transition: all 0.3s;
   color: var(--color-text-dark);
@@ -219,7 +219,7 @@ body {
 
 .summary {
   padding: 2.2rem 3.2rem 1.8rem 3.2rem;
-  border-radius: 0.9rem;
+  border-radius: 0.5rem;
   background-color: var(--color-background-100);
   box-shadow: 0 1.2rem 2.4rem rgba(0, 0, 0, 0.2);
 }
@@ -289,7 +289,7 @@ body {
 
 .rating {
   background-color: var(--color-background-100);
-  border-radius: 0.9rem;
+  border-radius: 0.5rem;
   padding: 2rem 2.4rem;
   margin-bottom: 0.8rem;
   font-weight: 600;
@@ -303,7 +303,7 @@ body {
   color: var(--color-text);
   border: none;
   border-radius: 10rem;
-  font-size: 1.4rem;
+  font-size: 1.6rem;
   padding: 1rem;
   font-weight: bold;
   cursor: pointer;
