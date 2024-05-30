@@ -18,6 +18,9 @@ Welcome to PopCorn Movies, a web application designed for movie enthusiasts to s
 
 ## Screenshots
 ![1](public/img/1.jpg)
+
 ![2](public/img/2.jpg)
+
 ![3](public/img/3.jpg)
+
 ![4](public/img/4.jpg)
